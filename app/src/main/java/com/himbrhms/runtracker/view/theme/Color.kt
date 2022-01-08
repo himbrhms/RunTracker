@@ -1,4 +1,4 @@
-package com.himbrhms.runtracker.ui.theme
+package com.himbrhms.runtracker.view.theme
 
 import androidx.compose.ui.graphics.Color
 

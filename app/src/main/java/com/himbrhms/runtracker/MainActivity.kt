@@ -8,7 +8,7 @@ import androidx.compose.material.Surface
 import androidx.compose.material.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.tooling.preview.Preview
-import com.himbrhms.runtracker.ui.theme.RunTrackerTheme
+import com.himbrhms.runtracker.view.theme.RunTrackerTheme
 import com.himbrhms.runtracker.util.Logger
 import com.himbrhms.runtracker.util.className
 
